@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Krish 👋<br><br>💻 Tech enthusiast exploring Cybersecurity, AI, and Programming.<br><br>🔐 Learning how systems work, how to secure them, and occasionally breaking things — ethically, of course.<br><br>🧠 Curious mind. Creative thinker. Always building and learning something new.<br><br>🕸️ Your friendly neighborhood hacker.<br><br>⚡ Turning curiosity into code, ideas into projects, and problems into challenges.<br><br>«Keep learning. Keep building. Stay curious.»
+Hey, I'm Krish 👋 Your Friendly Neighbourhood Hacker <br><br>💻 Tech enthusiast exploring Cybersecurity, AI, and Programming.<br><br>🔐 Learning how systems work, how to secure them, and occasionally breaking things — ethically, of course.<br><br>🧠 Curious mind. Creative thinker. Always building and learning something new.<br><br>🕸️ Your friendly neighbourhood hacker.<br><br>⚡ Turning curiosity into code, ideas into projects, and problems into challenges.<br><br>«Keep learning. Keep building. Stay curious.»
 
 
 ## 🌐 Socials:
